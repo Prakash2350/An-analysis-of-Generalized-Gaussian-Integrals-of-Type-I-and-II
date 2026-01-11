@@ -1,6 +1,6 @@
 # An Analysis of the Generalized Gaussian Integrals and Gaussian - Like Integrals of Type I and II
 
-This repository accompanies the research paper "An Analysis of the Generalized Gaussian Integrals and Gaussian Like Integrals of Type I and II" published in the *Journal of Nepal Mathematical Society* (Vol. 7, Issue 2, 2024). In this work, we explore a family of integrals related to Gaussian functions, focusing on two distinct types of Gaussian-like integrals:
+This repository accompanies the research paper "An Analysis of the Generalized Gaussian Integrals and Gaussian Like Integrals of Type I and II" published in the *Journal of Nepal Mathematical Society* (Vol. 7, Issue 2, 2024) [Found here: https://www.nepjol.info/index.php/jnms/article/view/73105/55883]. In this work, we explore a family of integrals related to Gaussian functions, focusing on two distinct types of Gaussian-like integrals:
 
 1. **Type I**: \(\int_{-\infty}^{\infty} e^{-f(x)^2} \, dx\)
 2. **Type II**: \(\int_{-\infty}^{\infty} e^{-x^2} f(x) \, dx\), where \(f(x)\) is a continuous function.
